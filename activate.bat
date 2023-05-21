@@ -1,0 +1,1 @@
+start cmd /c "Scripts\\activate.bat & python start.py & pause"
